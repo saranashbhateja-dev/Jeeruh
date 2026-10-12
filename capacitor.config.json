@@ -1,0 +1,6 @@
+{
+  "appId": "com.saransh.jeerushos",
+  "appName": "JEE Rush OS",
+  "webDir": "www",
+  "server": {"androidScheme": "https"}
+}
